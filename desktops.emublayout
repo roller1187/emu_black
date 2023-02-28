@@ -26,21 +26,21 @@
     <window name="Tune Display" pname="0" numDesktopEntries="3">
       <desktop id="0" posX="1280" posY="464" w="961" h="639"/>
       <desktop id="3" posX="1234" posY="0" w="924" h="857"/>
-      <desktop id="4" posX="1338" posY="958" w="883" h="571"/>
+      <desktop id="4" posX="1338" posY="622" w="883" h="571"/>
     </window>
     <window name="RTLOG" pname="Idle" numDesktopEntries="2">
       <desktop id="0" posX="1280" posY="0" w="441" h="461"/>
-      <desktop id="5" posX="1" posY="1650" w="452" h="413"/>
+      <desktop id="5" posX="1" posY="1586" w="452" h="413"/>
     </window>
     <window name="Parameters" pname="Engine start" numDesktopEntries="2">
-      <desktop id="1" posX="-232" posY="0" w="556" h="618"/>
+      <desktop id="1" posX="0" posY="0" w="556" h="618"/>
       <desktop id="0" posX="1721" posY="0" w="529" h="464"/>
     </window>
     <window name="Cranking fuel #1" pname="Engine start" numDesktopEntries="1">
-      <desktop id="1" posX="324" posY="2" w="1665" h="617" ed0="2" ed1="842"/>
+      <desktop id="1" posX="556" posY="2" w="1665" h="617" ed0="2" ed1="842"/>
     </window>
     <window name="Parameters" pname="Idle" numDesktopEntries="1">
-      <desktop id="5" posX="941" posY="1384" w="482" h="1021"/>
+      <desktop id="5" posX="941" posY="1320" w="482" h="1021"/>
     </window>
     <window name="Parameters" pname="Boost" numDesktopEntries="2">
       <desktop id="6" posX="1446" posY="0" w="798" h="759"/>
@@ -56,22 +56,16 @@
       <desktop id="9" posX="0" posY="98" w="482" h="549"/>
     </window>
     <window name="Launch ctrl. parameters" pname="Sport" numDesktopEntries="1">
-      <desktop id="8" posX="0" posY="0" w="728" h="374"/>
+      <desktop id="8" posX="0" posY="0" w="728" h="599"/>
     </window>
     <window name="AC correction" pname="Idle" numDesktopEntries="1">
-      <desktop id="5" posX="0" posY="891" w="938" h="759" ed0="584"/>
-    </window>
-    <window name="Oil pressure cal." pname="Sensors setup" numDesktopEntries="1">
-      <desktop id="13" posX="0" posY="0" w="329" h="385" ed0="157"/>
-    </window>
-    <window name="Oil temp. cal." pname="Sensors setup" numDesktopEntries="1">
-      <desktop id="13" posX="200" posY="0" w="877" h="751" ed0="156"/>
+      <desktop id="5" posX="0" posY="827" w="938" h="759" ed0="584"/>
     </window>
     <window name="Pressure Parameters" pname="Sensors setup" numDesktopEntries="1">
-      <desktop id="13" posX="-3" posY="263" w="376" h="303"/>
+      <desktop id="13" posX="1858" posY="0" w="376" h="303"/>
     </window>
     <window name="Temperature Parameters" pname="Sensors setup" numDesktopEntries="1">
-      <desktop id="13" posX="372" posY="262" w="376" h="263"/>
+      <desktop id="13" posX="1466" posY="0" w="376" h="263"/>
     </window>
     <window name="Oil press. cut parameters" pname="Engine protection" numDesktopEntries="1">
       <desktop id="10" posX="0" posY="0" w="827" h="379"/>
@@ -86,10 +80,10 @@
       <desktop id="8" posX="728" posY="0" w="601" h="598"/>
     </window>
     <window name="VSS and Gearbox Parameters" pname="Sensors setup" numDesktopEntries="1">
-      <desktop id="13" posX="747" posY="0" w="376" h="523"/>
+      <desktop id="13" posX="1079" posY="0" w="376" h="523"/>
     </window>
     <window name="PID control" pname="Idle" numDesktopEntries="1">
-      <desktop id="5" posX="453" posY="1650" w="488" h="693"/>
+      <desktop id="5" posX="453" posY="1586" w="488" h="693"/>
     </window>
     <window name="Delayed turn off" pname="Other" numDesktopEntries="1">
       <desktop id="9" posX="1386" posY="258" w="694" h="301"/>
@@ -98,13 +92,13 @@
       <desktop id="10" posX="826" posY="511" w="627" h="206"/>
     </window>
     <window name="Prime pulse" pname="Engine start" numDesktopEntries="1">
-      <desktop id="1" posX="-232" posY="618" w="1049" h="751" ed0="586"/>
+      <desktop id="1" posX="0" posY="618" w="1049" h="751" ed0="586"/>
     </window>
     <window name="Fuel TPS scale" pname="Engine start" numDesktopEntries="1">
-      <desktop id="1" posX="816" posY="618" w="1173" h="751" ed0="586"/>
+      <desktop id="1" posX="1048" posY="618" w="1173" h="751" ed0="586"/>
     </window>
     <window name="Ign. table #1" pname="Ignition" numDesktopEntries="1">
-      <desktop id="3" posX="0" posY="0" w="1234" h="795" ed1="604"/>
+      <desktop id="3" posX="0" posY="0" w="1234" h="771" ed1="604"/>
     </window>
     <window name="Coil dwell time" pname="Ignition" numDesktopEntries="1">
       <desktop id="2" posX="0" posY="813" w="824" h="691" ed0="508"/>
@@ -113,19 +107,19 @@
       <desktop id="2" posX="824" posY="816" w="873" h="694" ed0="504"/>
     </window>
     <window name="Lambda trgt. #1" pname="Fueling" numDesktopEntries="1">
-      <desktop id="4" posX="0" posY="958" w="1338" h="572" ed0="2" ed1="657"/>
+      <desktop id="4" posX="0" posY="622" w="1338" h="572" ed0="2" ed1="657"/>
     </window>
     <window name="VE table #1" pname="Fueling" numDesktopEntries="1">
-      <desktop id="4" posX="0" posY="-94" w="2222" h="1052" ed0="2" ed1="1092"/>
+      <desktop id="4" posX="0" posY="1199" w="1556" h="692" ed0="2" ed1="762"/>
     </window>
     <window name="Idle RPM ref" pname="Idle" numDesktopEntries="1">
-      <desktop id="5" posX="1044" posY="0" w="1121" h="891" ed0="714"/>
+      <desktop id="5" posX="1044" posY="-64" w="1121" h="891" ed0="714"/>
     </window>
     <window name="Idle Target RPM" pname="Idle" numDesktopEntries="1">
-      <desktop id="5" posX="0" posY="0" w="1044" h="891" ed0="668"/>
+      <desktop id="5" posX="0" posY="-64" w="1044" h="891" ed0="668"/>
     </window>
     <window name="Idle ref table" pname="Idle" numDesktopEntries="1">
-      <desktop id="5" posX="938" posY="891" w="1214" h="493" ed0="2" ed1="594"/>
+      <desktop id="5" posX="938" posY="827" w="1214" h="493" ed0="2" ed1="594"/>
     </window>
     <window name="DC ref #1" pname="Boost" numDesktopEntries="1">
       <desktop id="6" posX="0" posY="0" w="1446" h="525" ed0="2" ed1="710"/>
@@ -145,8 +139,9 @@
     <window name="GAUGE" pname="CLT" numDesktopEntries="1">
       <desktop id="7" posX="1535" posY="-272" w="512" h="544"/>
     </window>
-    <window name="GAUGE" pname="Oil temperature" numDesktopEntries="1">
+    <window name="GAUGE" pname="Oil temperature" numDesktopEntries="2">
       <desktop id="7" posX="396" posY="272" w="396" h="428"/>
+      <desktop id="13" posX="1456" posY="256" w="396" h="428"/>
     </window>
     <window name="GAUGE" pname="Oil pressure" numDesktopEntries="1">
       <desktop id="7" posX="792" posY="272" w="396" h="428"/>
@@ -175,30 +170,61 @@
     <window name="GAUGE" pname="Knock Level" numDesktopEntries="1">
       <desktop id="7" posX="1584" posY="700" w="396" h="428"/>
     </window>
-    <window name="AC clutch" pname="Outputs" numDesktopEntries="1">
+    <window name="AC clutch" pname="Outputs" numDesktopEntries="2">
       <desktop id="9" posX="482" posY="-528" w="746" h="785"/>
+      <desktop id="5" posX="1424" posY="1312" w="562" h="621"/>
     </window>
     <window name="Oil press. cut tbl" pname="Engine protection" numDesktopEntries="1">
       <desktop id="10" posX="0" posY="379" w="826" h="629" ed0="451"/>
-    </window>
-    <window name="LOGGRAPH" pname="1" numDesktopEntries="1">
-      <desktop id="11" posX="0" posY="0" w="2245" h="1177"/>
     </window>
     <window name="Tables switch" pname="Other" numDesktopEntries="1">
       <desktop id="12" posX="0" posY="0" w="746" h="282"/>
     </window>
     <window name="Parameters" pname="Flex Fuel" numDesktopEntries="1">
-      <desktop id="12" posX="752" posY="0" w="746" h="285"/>
+      <desktop id="12" posX="752" posY="0" w="746" h="769"/>
     </window>
-    <window name="RTLOG" pname="Flex Fuel" numDesktopEntries="1">
-      <desktop id="12" posX="750" posY="285" w="565" h="568"/>
-    </window>
-    <window name="CAN" pname="CAN, Serial" numDesktopEntries="2">
-      <desktop id="12" posX="0" posY="282" w="746" h="570"/>
+    <window name="CAN" pname="CAN, Serial" numDesktopEntries="1">
       <desktop id="9" posX="482" posY="559" w="746" h="699"/>
     </window>
     <window name="Rolling start" pname="Sport" numDesktopEntries="1">
-      <desktop id="8" posX="1336" posY="0" w="746" h="570"/>
+      <desktop id="8" posX="1329" posY="0" w="746" h="597"/>
+    </window>
+    <window name="VE table #2" pname="Fueling" numDesktopEntries="1">
+      <desktop id="4" posX="0" posY="1" w="1598" h="638" ed0="2" ed1="790"/>
+    </window>
+    <window name="LOGGRAPH" pname="1" numDesktopEntries="1">
+      <desktop id="11" posX="0" posY="0" w="2070" h="1131"/>
+    </window>
+    <window name="Oil temp. cal." pname="Sensors setup" numDesktopEntries="1">
+      <desktop id="13" posX="0" posY="367" w="938" h="759" ed0="584"/>
+    </window>
+    <window name="Oil pressure cal." pname="Sensors setup" numDesktopEntries="1">
+      <desktop id="13" posX="0" posY="0" w="1081" h="367" ed0="192"/>
+    </window>
+    <window name="GAUGE" pname="Analog #6" numDesktopEntries="1">
+      <desktop id="13" posX="1856" posY="296" w="396" h="428"/>
+    </window>
+    <window name="RTLOG" pname="Flex Fuel" numDesktopEntries="1">
+      <desktop id="12" posX="1495" posY="0" w="757" h="565"/>
+    </window>
+    <window name="VE blend" pname="Flex Fuel" numDesktopEntries="1">
+      <desktop id="12" posX="0" posY="280" w="588" h="523" ed0="348"/>
+    </window>
+    <window name="AFR Blend" pname="Flex Fuel" numDesktopEntries="1">
+      <desktop id="12" posX="1498" posY="565" w="588" h="523" ed0="348"/>
+    </window>
+    <window name="LC Spark cut#1" pname="Sport" numDesktopEntries="1">
+      <desktop id="8" posX="0" posY="598" w="889" h="382" ed0="2" ed1="427"/>
+    </window>
+    <window name="Fuel cut" pname="Fueling" numDesktopEntries="2">
+      <desktop id="4" posX="1600" posY="0" w="562" h="587"/>
+      <desktop id="11" posX="831" posY="252" w="562" h="587"/>
+    </window>
+    <window name="LC Ignition Mod#1" pname="Sport" numDesktopEntries="1">
+      <desktop id="8" posX="889" posY="597" w="816" h="306" ed0="2" ed1="397"/>
+    </window>
+    <window name="LC Fuel Mod#1" pname="Sport" numDesktopEntries="1">
+      <desktop id="8" posX="891" posY="903" w="816" h="306" ed0="2" ed1="397"/>
     </window>
   </windows>
   <tabs>
